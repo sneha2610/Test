@@ -1,1 +1,5 @@
-File of Second Branch
+
+This is to replace branch2 file2 text 
+
+Incoming from branch3
+
